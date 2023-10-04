@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+#requisicao{
+    height: auto;
+    width: auto;
+    padding: 10px;
+    border-color: black;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+#end-point{
+    width: auto;
+}
+
+#buscar_button{
+    margin-top: 20px;
+}
+
+
+#map{
+    height: 800px;
+    width: 1000px;
+    background-color: gray;
+}
